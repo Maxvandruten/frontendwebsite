@@ -77,7 +77,7 @@ https://www.nu.nl/
 
 
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/twitch_bladeren.jpg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Twitch_bladeren.jpg)
 
 **Breakdown-schets(en):**
 
