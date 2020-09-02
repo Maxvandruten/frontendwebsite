@@ -56,22 +56,22 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** 
 
-Mijn startniveau is vrij slecht. Ik zie mezelf nog als beginner met code, dus zwart (ik neem aan dat dit het laagste niveau is?)
+Mijn startniveau is vrij slecht. Ik zie mezelf nog als beginner met code en ik moet internetstandaarden deze periode ook herkansen, dus blauw.
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** 
 
 Ik ga voor de surface plane. Ik wil video's etc toevoegen.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** 
 
 Ik wil graag Twitch of Youtube maken, alleen ben ik een beetje bang dat dit een veel te moeilijke opdracht is voor mijn niveau, in dat geval is reddit of nu.nl mijn backup.
 
-https://www.twitch.tv/
-https://www.youtube.com/
-https://www.reddit.com/
-https://www.nu.nl/
+- https://www.twitch.tv/
+- https://www.youtube.com/
+- https://www.reddit.com/
+- https://www.nu.nl/
 
 **Screenshot(s):**
 
